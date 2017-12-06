@@ -1,5 +1,7 @@
-### Case1:
-Visualization of 1000 youth talent data.
-In this analysis, we want to answer 4 Question. 
+### Case1:Visualization of 1000 youth talent data.
+带着问题去探索这个数据
 + 不同性别的青年的年龄分布
-+ 
++ 青年千人的星座(出生的月份)，大摩羯是不是真的非常厉害？
++ 青年千人选择的工作地点在全国的分布
++ 哪座城市吸引的千人最多
++ 这批千人的学科分布是什么，21世纪还是不是生物的世纪？
